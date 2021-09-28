@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d94fe47c-1d50-4b1f-b696-1d58b8217719" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/dao/CategoriaDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/dao/ProdutoDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Categoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/util/JPAUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BecaJavaEveris" beforeDir="false" afterPath="$PROJECT_DIR$/../BecaJavaEveris" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy-datasource.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jpb/persistence-units.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/modelo/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/testes/CadastroDeProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/loja/testes/CadastroDeProduto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/loja/modelo/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/loja/modelo/Produto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/loja/testes/CadastroDeProduto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/loja/testes/CadastroDeProduto.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
